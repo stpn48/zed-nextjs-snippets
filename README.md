@@ -68,14 +68,6 @@ useEffect(() => {
 
 ---
 
-### ⚙️ **How to Use**
-
-1. **Install Zed Editor** – Make sure you have Zed installed for smooth experience with these snippets.
-2. **Add Snippets to Zed** – Add these snippets to your Zed snippet configuration folder.
-3. **Start Coding** – Type the snippet prefix (e.g., `rc`, `rcc`, `sa`, etc.) and hit **Tab** to expand the snippet into a full block of code!
-
----
-
 ### 🎉 **Why Use Zed Snippets?**
 - **Speed**: Save time by avoiding repetitive coding tasks.
 - **Consistency**: Maintain a clean and consistent codebase across your Next.js projects.
@@ -88,7 +80,8 @@ useEffect(() => {
 To install these snippets, simply copy them into your Zed snippet directory:
 
 1. Navigate to `~/.config/zed/snippets`
-2. Paste the snippet configuration into the file.
+2. Paste the snippets.json file into the folder.
+3. Enjoy !
 
 ### 📂 **Folder Structure** (Example)
 
